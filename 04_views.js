@@ -102,12 +102,12 @@ const thanks = babeViews.thanks({
 
 
 // Here, we initialize a forcedChoice view
-const keyPress = babeViews.keyPress({
+const keyPress_2A = babeViews.keyPress({
     // This will use all trials specified in `data`, you can user a smaller value (for testing), but not a larger value
     trials: trial_info.keyPress.length,
     // name and trial_type should be identical to the variable name
-    name: 'keyPress',
-    trial_type: 'keyPress',
+    name: 'keyPress_2A',
+    trial_type: 'keyPress_2A',
     data: trial_info.keyPress
 });
 
