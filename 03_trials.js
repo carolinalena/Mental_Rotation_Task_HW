@@ -2,18 +2,41 @@
 
 
 const trial_info = {
-    key_press: [
+    keyPress: [
         {
-            question: "Are the objects the same 'd' or different 'k'?",
-            picture: "images/question_mark_02.png",
             key1: 'd',
-            key2: 'k'
+	    key2: 'k',
+            picture: "images/question_mark_02.png",
+            d: 'same',
+            k: 'different'
         },
-        {
-            question: "What's the weather like?",
-            picture: "images/weather.jpg",
-            option1: "shiny",
-            option2: "rainbow"
-        }
-    ]
+	{
+            key1: 'd',
+	    key2: 'k',
+            picture: "images/question_mark_02.png",
+            d: 'same',
+            k: 'different'
+        },
+	{
+            key1: 'd',
+	    key2: 'k',
+            picture: "images/question_mark_02.png",
+            d: 'same',
+            k: 'different'
+        },
+	{
+            key1: 'd',
+	    key2: 'k',
+            picture: "images/question_mark_02.png",
+            d: 'same',
+            k: 'different'
+        },
+	{
+            key1: 'd',
+	    key2: 'k',
+            picture: "images/question_mark_02.png",
+            d: 'same',
+            k: 'different'
+        },
+    ],
 };
