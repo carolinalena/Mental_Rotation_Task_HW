@@ -6,7 +6,7 @@ const trial_info = {
         {
             key1: 'd',
 	    key2: 'k',
-            picture: "images/1_150_same.jpg",
+            picture: 'images/1_150_same.jpg',
             d: 'same',
             k: 'different',
 	    expected: 'same'
@@ -14,7 +14,7 @@ const trial_info = {
 	{
             key1: 'd',
 	    key2: 'k',
-            picture: "images/1_50_different.jpg",
+            picture: 'images/1_50_different.jpg',
             d: 'same',
             k: 'different',
 	    expected: 'different'
@@ -22,7 +22,7 @@ const trial_info = {
 	{
             key1: 'd',
 	    key2: 'k',
-            picture: "images/3_150_same.jpg",
+            picture: 'images/3_150_same.jpg',
             d: 'same',
             k: 'different',
 	    expected: 'same'
@@ -30,7 +30,7 @@ const trial_info = {
 	{
             key1: 'd',
 	    key2: 'k',
-            picture: "images/6_150_different.jpg",
+            picture: 'images/6_150_different.jpg',
             d: 'same',
             k: 'different',
 	    expected: 'different'
@@ -38,7 +38,7 @@ const trial_info = {
 	{
             key1: 'd',
 	    key2: 'k',
-            picture: "images/7_50_same.jpg",
+            picture: 'images/7_50_same.jpg',
             d: 'same',
             k: 'different',
 	    expected: 'same'
