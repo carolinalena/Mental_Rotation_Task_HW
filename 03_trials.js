@@ -4,7 +4,7 @@
 const trial_info = {
     keyPress: [
         {
-            question: "Are the objects the same 'd' or different 'k'?"
+            question: "Are the objects the same 'd' or different 'k'?",
 	    key1: 'd',
 	    key2: 'k',
             picture: 'images/1_150_same.jpg',
@@ -13,7 +13,7 @@ const trial_info = {
 	    expected: 'same'
         },
 	{
-	    question: "Are the objects the same 'd' or different 'k'?"
+	    question: "Are the objects the same 'd' or different 'k'?",
             key1: 'd',
 	    key2: 'k',
             picture: 'images/1_50_different.jpg',
@@ -22,7 +22,7 @@ const trial_info = {
 	    expected: 'different'
         },
 	{
-	    question: "Are the objects the same 'd' or different 'k'?"
+	    question: "Are the objects the same 'd' or different 'k'?",
             key1: 'd',
 	    key2: 'k',
             picture: 'images/3_150_same.jpg',
@@ -31,7 +31,7 @@ const trial_info = {
 	    expected: 'same'
         },
 	{
-	    question: "Are the objects the same 'd' or different 'k'?"
+	    question: "Are the objects the same 'd' or different 'k'?",
             key1: 'd',
 	    key2: 'k',
             picture: 'images/6_150_different.jpg',
@@ -40,7 +40,7 @@ const trial_info = {
 	    expected: 'different'
         },
 	{
-	    question: "Are the objects the same 'd' or different 'k'?"
+	    question: "Are the objects the same 'd' or different 'k'?",
             key1: 'd',
 	    key2: 'k',
             picture: 'images/7_50_same.jpg',
