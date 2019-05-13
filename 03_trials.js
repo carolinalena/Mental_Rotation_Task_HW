@@ -6,42 +6,42 @@ const trial_info = {
         {
             key1: 'd',
 	    key2: 'k',
-            picture: "images/question_mark_02.png",
+            picture: "images/1_150_same.jpg",
             d: 'same',
             k: 'different',
-	    expected: 'CHANGE'
+	    expected: 'same'
         },
 	{
             key1: 'd',
 	    key2: 'k',
-            picture: "images/question_mark_02.png",
+            picture: "images/1_50_different.jpg",
             d: 'same',
             k: 'different',
-	    expected: 'CHANGE'
+	    expected: 'different'
         },
 	{
             key1: 'd',
 	    key2: 'k',
-            picture: "images/question_mark_02.png",
+            picture: "images/3_150_same.jpg",
             d: 'same',
             k: 'different',
-	    expected: 'CHANGE'
+	    expected: 'same'
         },
 	{
             key1: 'd',
 	    key2: 'k',
-            picture: "images/question_mark_02.png",
+            picture: "images/6_150_different.jpg",
             d: 'same',
             k: 'different',
-	    expected: 'CHANGE'
+	    expected: 'different'
         },
 	{
             key1: 'd',
 	    key2: 'k',
-            picture: "images/question_mark_02.png",
+            picture: "images/7_50_same.jpg",
             d: 'same',
             k: 'different',
-	    expected: 'CHANGE'
+	    expected: 'same'
         },
     ],
 };
