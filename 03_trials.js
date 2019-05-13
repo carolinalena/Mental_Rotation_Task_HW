@@ -8,35 +8,40 @@ const trial_info = {
 	    key2: 'k',
             picture: "images/question_mark_02.png",
             d: 'same',
-            k: 'different'
+            k: 'different',
+	    expected: 'CHANGE'
         },
 	{
             key1: 'd',
 	    key2: 'k',
             picture: "images/question_mark_02.png",
             d: 'same',
-            k: 'different'
+            k: 'different',
+	    expected: 'CHANGE'
         },
 	{
             key1: 'd',
 	    key2: 'k',
             picture: "images/question_mark_02.png",
             d: 'same',
-            k: 'different'
+            k: 'different',
+	    expected: 'CHANGE'
         },
 	{
             key1: 'd',
 	    key2: 'k',
             picture: "images/question_mark_02.png",
             d: 'same',
-            k: 'different'
+            k: 'different',
+	    expected: 'CHANGE'
         },
 	{
             key1: 'd',
 	    key2: 'k',
             picture: "images/question_mark_02.png",
             d: 'same',
-            k: 'different'
+            k: 'different',
+	    expected: 'CHANGE'
         },
     ],
 };
