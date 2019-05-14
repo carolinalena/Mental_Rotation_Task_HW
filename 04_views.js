@@ -23,14 +23,13 @@ const intro = babeViews.intro({
     trials: 1,
     name: 'intro',
     // If you use JavaScripts Template String `I am a Template String`, you can use HTML <></> and javascript ${} inside
-    text:   `This is a sample introduction view.
+    text:   `This is a very simple experiment called "Mental Rotation Task".
             <br />
             <br />
-            The introduction view welcomes the participant and gives general information
-            about the experiment. You are in the <strong>${coin}</strong> group.
+            In this experiment you will be asked whether the two shown objects are the same or different from each other.
             <br />
             <br />
-            This is a minimal experiment with one forced choice view. It can serve as a starting point for programming your own experiment.`,
+            If you decide that the two objects are the same, press "d", if you decide they are different, press "k".`,
    buttonText: 'Begin the experiment'
 });
 
