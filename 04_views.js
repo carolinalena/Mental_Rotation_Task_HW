@@ -29,7 +29,7 @@ const intro = babeViews.intro({
             In this experiment you will be asked whether the two shown objects are the same or different from each other.
             <br />
             <br />
-            If you decide that the two objects are the same, press "d", if you decide they are different, press "k".`,
+            `,
    buttonText: 'Begin the experiment'
 });
 
@@ -38,10 +38,12 @@ const instructions = babeViews.instructions({
     trials: 1,
     name: 'instrucions',
     title: 'General Instructions',
-    text:  `This is a sample instructions view.
+    text:  `Like we said before, please decide whether the two shown objects are the same or different.
             <br />
             <br />
-            Tell your participants what they are to do here.`,
+            To do so press "d", if they are the same and "k", if they are different from each other.
+            <br />
+            Please try to be as quick as possible.`,
     buttonText: 'go to trials'
 });
 
