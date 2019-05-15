@@ -3,15 +3,7 @@
 
 const trial_info = {
     keyPress: [
-        {
-            question: "Are the objects the same 'd' or different 'k'?",
-	    key1: 'd',
-	    key2: 'k',
-            picture: 'images/1_150_same.jpg',
-            d: 'same',
-            k: 'different',
-	    expected: 'same'
-        },
+
 	{
 	    question: "Are the objects the same 'd' or different 'k'?",
             key1: 'd',
@@ -20,6 +12,15 @@ const trial_info = {
             d: 'same',
             k: 'different',
 	    expected: 'different'
+        },
+	{
+            question: "Are the objects the same 'd' or different 'k'?",
+	    key1: 'd',
+	    key2: 'k',
+            picture: 'images/1_150_same.jpg',
+            d: 'same',
+            k: 'different',
+	    expected: 'same'
         },
 	{
 	    question: "Are the objects the same 'd' or different 'k'?",
